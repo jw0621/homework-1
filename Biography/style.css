@@ -30,6 +30,13 @@ h2 {
 #boomHeadshot {
     float:left;
 }
+#navbar {
+    text-align: center;
+    height: 80px;
+    padding: 12px 0 36px 0;
+    font-size: 18px;
+    background: #ccc;
+}
 #main-bio {
     width: 70%;
 }
@@ -37,7 +44,8 @@ h2 {
 {
     padding: 15px;
     width: 200px;
-}#contact-info {
+}
+#contact-info {
     width: 30%;
     height: 1.5;
 }

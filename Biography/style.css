@@ -50,7 +50,8 @@ h2 {
     width: 200px;
 }
 #contact-info {
-    width: 30%;
+    float: right;
+    width: 20%;
     height: 1.5;
-    margin-right: 10px
+    margin-right: 10px;
 }

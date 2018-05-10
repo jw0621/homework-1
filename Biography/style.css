@@ -44,6 +44,11 @@ h2 {
     width: 65%;
     margin-left: 10px
 }
+
+#main-bio p {
+ margin-bottom: 16px
+}
+
 #boomHeadshot 
 {
     padding: 12px 12px 0 0;

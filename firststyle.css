@@ -4,9 +4,10 @@
 
     }
 
+
 body {
     font-size: 16px;
-    font-family: "Helvetica";
+    font-family: "Times New Roman";
     line-height: 150%;
     color: rgb(51, 51, 51);
     background: gray;
@@ -44,6 +45,9 @@ header {
     width: 35%;
     background: #fff;
     height: 375px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
 }
 
 footer {

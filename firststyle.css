@@ -1,24 +1,45 @@
 * {
     box-sizing: border-box;
     text-align: center;
-
     }
-
 
 body {
     font-size: 16px;
-    font-family: "Times New Roman";
+    font-family: "Gothic A1";
     line-height: 150%;
     color: rgb(51, 51, 51);
     background: gray;
 }
 
+a {
+    color: #d21034; 
+}
+
 header {
-    background: #ccc; 
-    height: 100px;
-    padding: 36px;
+    height: 80px;
+    padding: 24px;
     margin-bottom: 5px;
-    font-size: 24px;
+    color: white;
+    background-color: #333333;
+    text-align: center;
+    Margin: 0;
+}  
+
+h1 {
+    font-size: 28px;
+    font-family: "Merriweather";
+}
+
+h2 {
+    font-family: "Merriweather";
+    color: #333;
+    font-size: 24px
+}
+
+h3 {
+    font-family: "Merriweather";
+    color: #333;
+    font-size: 20px
 }  
 
 #navbar {
@@ -41,15 +62,18 @@ header {
 }
 
 #aside {
-    float: left;
+    float: right;
     width: 35%;
     background: #fff;
     height: 375px;
     border-style: solid;
-    border-color: black;
-    border-width: 5px;
+    border-color: gainsboro;
+    border-width: 2px;
 }
+#pagetop {
+    position: relative
 
+}
 footer {
     padding: 20px;
     clear: both;
